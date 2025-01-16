@@ -1,0 +1,4 @@
+--utiliser des tuples à la place de certaines listes? ==> plus de rapidité
+--ajouter des chiffres, majuscules et caractères spéciaux
+--ajouter une interface web?
+--utiliser ce système de cryptage dans un chat (websocket)
